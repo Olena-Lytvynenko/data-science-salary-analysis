@@ -127,6 +127,9 @@ This project is organized into focused Jupyter notebooks that systematically add
  - Economic Factors correlation study  
  - AI Revolution impact assessment with ChatGPT analysis
 
+**Tableau Data Preparation:**
+- `05_data_preparation_tableau.ipynb` - Systematic data preprocessing and transformation for interactive dashboard visualization
+
 ### Who This Project Benefits
 
 **For Data Science Professionals:**
