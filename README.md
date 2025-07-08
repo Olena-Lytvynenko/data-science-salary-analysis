@@ -92,12 +92,11 @@ A comprehensive interactive Tableau dashboard was created to explore key finding
 
 - Salary trends across company sizes, experience levels, and geographic regions
 - ChatGPT impact visualization with before/after comparisons
-- Economic indicator correlation heatmaps
 - AI vs traditional Data Science role compensation analysis
 - Digital nomad flow patterns and remote work trends
-- Interactive filters for demographic and temporal segmentation
+- Interactive filters for company size, employment type, experience level, remote work ratio, role category, and work year 
 
-*Dashboard link: [To be added upon Tableau Public publication]*
+[Tableau - Dashboard link](https://public.tableau.com/views/DataScienceSalaryDashboard2020-2025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to Use This Project
 
