@@ -1,4 +1,4 @@
-# Research Conclusion: Data Science Market Dynamics 2020–2025
+# Research Conclusion: Data Science Market Dynamics 2020–2025 
 
 This comprehensive study analyzed Data Science salary dynamics across three key dimensions: corporate structure, national economic conditions, and the disruptive impact of AI technologies — uncovering how these forces shape compensation outcomes.
 
